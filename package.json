@@ -31,6 +31,7 @@
     "lodash": "^4.17.15",
     "moment": "^2.24.0",
     "regenerator-runtime": "^0.13.3",
-    "sweetalert2": "^9.5.3"
+    "sweetalert2": "^9.5.3",
+    "xlsx": "^0.15.4"
   }
 }

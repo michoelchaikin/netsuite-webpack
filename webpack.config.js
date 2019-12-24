@@ -58,4 +58,9 @@ module.exports = {
     }),
   ],
   externals: [/^N\//],
+  // for sheetjs (https://github.com/SheetJS/sheetjs/tree/master/demos/webpack)
+  node: {
+    process: false,
+    Buffer: false,
+  },
 };
