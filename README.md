@@ -25,6 +25,7 @@ The example scripts use the following libraries. If there are any other npm libr
 - [SweetAlert2](https://sweetalert2.github.io/)
 - [Lodash](https://lodash.com/)
 - [SheetJS](https://sheetjs.com/)
+- [Numeral.js](http://numeraljs.com/)
 
 ## Author
 
