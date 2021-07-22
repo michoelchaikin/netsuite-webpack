@@ -33,6 +33,6 @@
     "numeral": "^2.0.6",
     "regenerator-runtime": "^0.13.3",
     "sweetalert2": "^9.5.3",
-    "xlsx": "^0.15.4"
+    "xlsx": "^0.17.0"
   }
 }
