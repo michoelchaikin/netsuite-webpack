@@ -29,7 +29,7 @@
   "dependencies": {
     "core-js": "^3.6.0",
     "lodash": "^4.17.19",
-    "moment": "^2.24.0",
+    "moment": "^2.29.4",
     "numeral": "^2.0.6",
     "regenerator-runtime": "^0.13.3",
     "sweetalert2": "^9.5.3",
